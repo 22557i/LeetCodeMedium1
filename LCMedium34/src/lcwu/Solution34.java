@@ -10,7 +10,6 @@ public class Solution34 {
 				break;
 			}
 		}
-
 		for (int i = nums.length-1; i>-1; i--) {
 			if(nums[i]==target){
 				end = i;
